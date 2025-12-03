@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kashvi!
 
-Scientific Machine Learning • Aerospace • Simulation & Optimization
+### Scientific Machine Learning • Aerospace • Simulation & Optimization
 
 I’m a Computational Science & Engineering grad student at Georgia Tech working on multi-fidelity neural networks, physics-informed modeling, and uncertainty quantification. I enjoy building ML-driven simulation tools, studying numerical behavior, and solving complex engineering problems with computational methods.
 
