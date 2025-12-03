@@ -4,6 +4,8 @@ Scientific Machine Learning • Aerospace • Simulation & Optimization
 
 I’m a Computational Science & Engineering grad student at Georgia Tech working on multi-fidelity neural networks, physics-informed modeling, and uncertainty quantification. I enjoy building ML-driven simulation tools, studying numerical behavior, and solving complex engineering problems with computational methods.
 
+My undergraduate degree was in Aerospace Engineering. I have experience working with rockets, jet engines, and controlled systems. Ex ULA, Pratt & Whitney.
+
 ### 📫 Contact
 - **Email:** kashvi.mundra [at] gatech [dot] edu
 - **LinkedIn:** https://www.linkedin.com/in/kashvi-mundra/
