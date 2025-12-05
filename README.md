@@ -1,6 +1,6 @@
 ## Hey there👋 I'm Kashvi!
 
-I love:
+I'm specializing in:
 
 ### Scientific Machine Learning • Aerospace • Simulation & Optimization
 
