@@ -6,7 +6,7 @@ I'm specializing in:
 
 I’m a Computational Science & Engineering grad student at Georgia Tech working on multi-fidelity neural networks, physics-informed modeling, and uncertainty quantification. I enjoy building ML-driven simulation tools, studying numerical behavior, and solving complex engineering problems with computational methods.
 
-My undergraduate degree was in Aerospace Engineering. I have experience working with rockets, jet engines, and controlled systems. Ex ULA, Pratt & Whitney.
+My undergraduate degree was in Aerospace Engineering; I love working with rockets, jet engines, and controlled systems. Ex ULA, Pratt & Whitney.
 
 ### 📫 How to reach me
 - **Email:** kashvi.mundra [at] gatech [dot] edu
