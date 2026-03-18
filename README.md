@@ -9,7 +9,7 @@ I’m a Computational Science & Engineering grad student at Georgia Tech working
 My undergraduate degree was in Aerospace Engineering; I love working with rockets, jet engines, and controlled systems. Ex ULA, Pratt & Whitney.
 
 ### 📫 How to reach me
-- **Email:** kashvi.mundra [at] gatech [dot] edu
+- **Email:** kashvi [at] gatech [dot] edu
 - **LinkedIn:** https://www.linkedin.com/in/kashvi-mundra/
 
 Outside of engineering, I'm a singer-songwriter working on getting my first album released. I'm also multilingual and working on gaining proficiency in my 5th language. 
