@@ -11,8 +11,6 @@ My undergraduate degree was in Aerospace Engineering; I love working with rocket
 ### 📫 How to reach me
 - **Email:** kashvi [at] gatech [dot] edu
 - **LinkedIn:** https://www.linkedin.com/in/kashvi-mundra/
-
-Outside of engineering, I'm a singer-songwriter working on getting my first album released. I'm also multilingual and working on gaining proficiency in my 5th language. 
 <!--
 **k-mundra/k-mundra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
